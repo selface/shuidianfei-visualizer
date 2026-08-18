@@ -79,3 +79,6 @@ http://192.168.1.4:8000/
 - 识别结果仅供家庭用量分析参考。
 - 账单截图会发送到本机后端服务，请勿在不可信网络上传敏感信息。
 - `tessdata/` 中的 Tesseract 语言包用于 PaddleOCR 不可用时的兜底识别。
+
+## 示例
+<img width="1476" height="1049" alt="截屏2026-08-18 09 15 04" src="https://github.com/user-attachments/assets/d452973d-5808-46ac-8d0b-8c4b4f39a61c" />
